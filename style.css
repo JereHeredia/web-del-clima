@@ -56,3 +56,28 @@ h1 {
     color: black;
 
 }
+
+.containerPronostico{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#pronosticoDate1{
+
+    padding: 20px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+#pronosticoDate2{
+
+    padding: 20px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+#pronosticoDate3{
+
+    padding: 20px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
