@@ -2,7 +2,7 @@ const urlBase = `https://api.openweathermap.org/data/2.5/weather`
 
 const urlPronosticoExtendido = `https://pro.openweathermap.org/data/2.5/forecast`
 
-const API_KEY = `c89ac3bbab9cb1fdb1adf19788be32fe`
+const API_KEY = `API_KEY`
 const diffKelvin = 273.15
 
 //escuchamos el llamado del boton
