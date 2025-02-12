@@ -123,12 +123,12 @@ function pronosticoData1(data) {
 
 
     const infoDia1 = document.createElement('p')
-    infoDia1.textContent = `T. Max:${Math.floor(temMinDia1 - diffKelvin)} T.Min: ${Math.floor(temMaxDia1 - diffKelvin)}`
+    infoDia1.textContent = `T. Min:${Math.floor(temMinDia1 - diffKelvin)} T.Max: ${Math.floor(temMaxDia1 - diffKelvin)}`
 
 
     pronosticoData.appendChild(fechaInfo)
     pronosticoData.appendChild(infoDia1)
-    pronosticoData.appendChild(icoInfoDia1)
+   //pronosticoData.appendChild(icoInfoDia1)
 
 
 
@@ -161,12 +161,12 @@ function pronosticoData2(data) {
 
 
     const infoDia2 = document.createElement('p')
-    infoDia2.textContent = `T. Max:${Math.floor(temMinDia2 - diffKelvin)} T.Min: ${Math.floor(temMaxDia2 - diffKelvin)}`
+    infoDia2.textContent = `T. Min:${Math.floor(temMinDia2 - diffKelvin)} T.Min: ${Math.floor(temMaxDia2 - diffKelvin)}`
 
 
     pronosticoData.appendChild(fechaInfo)
     pronosticoData.appendChild(infoDia2)
-    pronosticoData.appendChild(icoInfoDia2)
+   // pronosticoData.appendChild(icoInfoDia2)
 
 
 
@@ -199,12 +199,12 @@ function pronosticoData3(data) {
 
 
     const infoDia3 = document.createElement('p')
-    infoDia3.textContent = `T. Max:${Math.floor(temMinDia3 - diffKelvin)} T.Min: ${Math.floor(temMaxDia3 - diffKelvin)}`
+    infoDia3.textContent = `T. Min:${Math.floor(temMinDia3 - diffKelvin)} T.Max: ${Math.floor(temMaxDia3 - diffKelvin)}`
 
 
     pronosticoData.appendChild(fechaInfo)
     pronosticoData.appendChild(infoDia3)
-    pronosticoData.appendChild(icoInfoDia3)
+//    pronosticoData.appendChild(icoInfoDia3)
 
 
 

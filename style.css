@@ -63,21 +63,33 @@ h1 {
 
 }
 
-#pronosticoDate1{
 
+#pronosticoDate1  {
+    color: orangered;
+    
     padding: 20px;
     margin-bottom: 15px;
     font-size: 20px;
+    
 }
+
 #pronosticoDate2{
 
+    color: orangered;
     padding: 20px;
     margin-bottom: 15px;
     font-size: 20px;
+    
+    
 }
-#pronosticoDate3{
 
+#pronosticoDate3{
+    color: orangered;
     padding: 20px;
     margin-bottom: 15px;
     font-size: 20px;
+    
+
+
+
 }
